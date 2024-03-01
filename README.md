@@ -1,7 +1,7 @@
 
-## Perfil de Agustin Asaad
+Perfil de Agustin Asaad
 
-<h2>¡Hola! 👋</h2>
+<h2>¡Bienvenido!👋</h2>
 <br/>
 
 <h3> Acerca de mí </h3>
