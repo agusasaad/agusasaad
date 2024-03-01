@@ -26,7 +26,5 @@
 <p>- Metodologias Agiles: SCRUM.</p>
 <br/>
 <h3>Contacto</h3>
-<a href='https://www.linkedin.com/in/agust%C3%ADn-asaad/'>Linkedin</a>
-<br/>
-<a href='agusasaad1099@hotmail.com'>Email</a>
+<a href='https://www.linkedin.com/in/agust%C3%ADn-asaad/'>Linkedin</a> | <a href='agusasaad1099@hotmail.com'>Email</a>
 
