@@ -6,7 +6,7 @@
 
 <h3> Acerca de mí </h3>
 <p>¡Hola! Soy Agustín Asaad, tengo 25 años de Córdoba, Argentina. Me desempeño como desarrollador full stack con un enfoque especializado en el FrontEnd. Mi pasión radica en el diseño de aplicaciones web atractivas e intuitivas.</p>
-<p>Mi enfoque central consiste en proporcionar experiencias de usuario excepcionales, donde cada línea de código y cada elemento visual contribuyen a la facilidad de uso y a la satisfacción del usuario.</p>
+<p>Mi enfoque central consiste en proporcionar experiencias de usuario agradables, donde cada línea de código y cada elemento visual contribuyen a la facilidad de uso y a la satisfacción del usuario.</p>
 <br/>
 <h3>Tecnologias</h3>
 <p>- Programación: JavaScript, Python.</p>
