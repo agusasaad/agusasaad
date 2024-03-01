@@ -25,29 +25,6 @@
 <br/>
 <p>- Metodologias Agiles: SCRUM.</p>
 <br/>
-<h3>Proyectos</h3>
-<a href='https://github.com/agusasaad/Drivers'>Drivers</a>
-</br>
-<p>La aplicación está diseñada con una interfaz simple y amigable, permitiendo a los usuarios
-buscar a sus conductores favoritos de F1 por nombre y apellido. La aplicación cuenta con un sistema
-de filtros que permite la búsqueda según el origen de los datos (base de datos o API), orden
-alfabético o fecha de nacimiento. Además, los usuarios contarán con formularios para poder
-crear sus propios conductores.</p>
-</br>
-<a href='https://github.com/agusasaad/Proyecto-Rick-And-Morty'>Rick And Morty APP</a>
-</br>
-<p>Aplicación diseñada para una búsqueda y exploración de personajes dentro de la serie. Los
-usuarios pueden encontrar rápidamente a sus personajes favoritos, eliminarlos y buscarlos ya
-sea por nombre o de manera aleatoria . Las opciones de filtrado aseguran una experiencia
-personalizada</p>
-</br>
-<a href='https://github.com/agusasaad/Librery'>Librery API</a>
-</br>
-<p>Creé una API eficiente utilizando Node.js, Express y MySQL para el registro, actualización y
-eliminación de libros. Simplificando la gestión de bibliotecas virtuales, garantiza un control
-rápido y sencillo sobre la colección de libros.
-</p>
-</br>
 <h3>Contacto</h3>
 <a href='https://www.linkedin.com/in/agust%C3%ADn-asaad/'>Linkedin</a>
 <br/>
