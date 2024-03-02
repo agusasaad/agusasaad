@@ -26,5 +26,5 @@ Perfil de Agustin Asaad
 <p>- Metodologias Agiles: SCRUM.</p>
 <br/>
 <h3>Contacto</h3>
-<a href='https://www.linkedin.com/in/agust%C3%ADn-asaad/'>Linkedin</a> | Email: agusasaad1099@hotmail.com
+<a href='https://www.linkedin.com/in/agust%C3%ADn-asaad/'>Linkedin</a> | agusasaad1099@hotmail.com
 
