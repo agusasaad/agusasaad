@@ -1,6 +1,4 @@
 
-Perfil de Agustin Asaad
-
 <h2>¡Bienvenido!👋</h2>
 <br/>
 
