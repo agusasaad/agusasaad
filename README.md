@@ -11,8 +11,8 @@ Mi enfoque central es proporcionar experiencias de usuario agradables, donde cad
 ### Programación:
 - **JavaScript**
 
-### Librerías y Herramientas:
-- **ReactJS**, **Redux**, **GSAP**, **Zustand**, **Chakra UI**, **Express**, **Bootstrap**
+### Frameworks y Librerías:
+- **Next.js**, **ReactJS**, **Redux**, **GSAP**, **Zustand**, **Chakra UI**, **Express**, **Bootstrap**
 
 ### Entornos de ejecución:
 - **Node.js**
@@ -37,4 +37,4 @@ Mi enfoque central es proporcionar experiencias de usuario agradables, donde cad
 Si deseas ponerte en contacto conmigo, puedes hacerlo a través de los siguientes enlaces:
 
 - [LinkedIn](https://www.linkedin.com/in/agust%C3%ADn-asaad/)
-- Email: [agusasaad1099@hotmail.com](mailto:agusasaad1099@hotmail.com)
+- [agusasaad1099@hotmail.com](mailto:agusasaad1099@hotmail.com)
