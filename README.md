@@ -1,28 +1,40 @@
+# ¡Bienvenido! 👋
 
-<h2>¡Bienvenido!👋</h2>
-<br/>
+## Acerca de mí
 
-<h3> Acerca de mí </h3>
-<p>¡Hola! Me presento, me llamo Agustín Asaad, tengo 25 años de Córdoba, Argentina. Soy desarrollador web full stack especializado en el area de FrontEnd. Mi pasión radica en el diseño de aplicaciones web atractivas e intuitivas.</p>
-<p>Mi enfoque central consiste en proporcionar experiencias de usuario agradables, donde cada línea de código y cada elemento visual contribuyen a la facilidad de uso y a la satisfacción del usuario.</p>
-<br/>
-<h3>Tecnologias</h3>
-<p>- Programación: JavaScript, Python.</p>
-<br/>
-<p>- Librerías: Express, ReactJs, Redux, Bootstrap.</p>
-<br/>
-<p>- Entornos de ejecución: NodeJs.</p>
-<br/>
-<p>- Base de Datos: PostgreSQL, MySQL, Sequelize(ORM).</p>
-<br/>
-<p>- Lenguajes de Marcado y Estilo: HTML5, CSS3.</p>
-<br/>
-<p>- Control de versiones y Entornos de Desarrollo: Git, GitHub.</p>
-<br/>
-<p>- Otras herramientas: Trello, Photoshop, illustrator, Blender.</p>
-<br/>
-<p>- Metodologias Agiles: SCRUM.</p>
-<br/>
-<h3>Contacto</h3>
-<a href='https://www.linkedin.com/in/agust%C3%ADn-asaad/'>Linkedin</a> | agusasaad1099@hotmail.com
+¡Hola! Me llamo Agustín Asaad, tengo 25 años y soy de Córdoba, Argentina. Soy desarrollador web **full stack** especializado en **FrontEnd**. Mi pasión es el diseño de aplicaciones web atractivas e intuitivas.
 
+Mi enfoque central es proporcionar experiencias de usuario agradables, donde cada línea de código y cada elemento visual contribuyen a la facilidad de uso y la satisfacción del usuario.
+
+## Tecnologías
+
+### Programación:
+- **JavaScript**
+
+### Librerías y Herramientas:
+- **ReactJS**, **Redux**, **GSAP**, **Zustand**, **Chakra UI**, **Express**, **Bootstrap**
+
+### Entornos de ejecución:
+- **Node.js**
+
+### Bases de Datos:
+- **PostgreSQL**, **MySQL**, **Supabase**, **Sequelize (ORM)**
+
+### Lenguajes de Marcado y Estilo:
+- **HTML5**, **CSS3**
+
+### Control de versiones y Entornos de Desarrollo:
+- **Git**, **GitHub**
+
+### Otras herramientas:
+- **Trello**, **Photoshop**, **Illustrator**, **Blender**
+
+### Metodologías Ágiles:
+- **SCRUM**
+
+## Contacto
+
+Si deseas ponerte en contacto conmigo, puedes hacerlo a través de los siguientes enlaces:
+
+- [LinkedIn](https://www.linkedin.com/in/agust%C3%ADn-asaad/)
+- Email: [agusasaad1099@hotmail.com](mailto:agusasaad1099@hotmail.com)
