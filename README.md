@@ -27,7 +27,7 @@ Mi enfoque central es proporcionar experiencias de usuario agradables, donde cad
 - **Git**, **GitHub**
 
 ### Otras herramientas:
-- **Trello**, **Photoshop**, **Illustrator**, **Blender**
+- **Trello**, **Illustrator**
 
 ### Metodologías Ágiles:
 - **SCRUM**
