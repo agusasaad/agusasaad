@@ -2,7 +2,7 @@
 
 ## Acerca de mí
 
-¡Hola! Me llamo Agustín Asaad, tengo 25 años y soy de Córdoba, Argentina. Soy desarrollador web **full stack** especializado en **FrontEnd**. Mi pasión es el diseño de aplicaciones web atractivas e intuitivas.
+¡Hola! Me llamo Agustín Asaad, tengo 26 años y soy de Córdoba, Argentina. Soy desarrollador web **full stack** especializado en **FrontEnd**. Mi pasión es el diseño de aplicaciones web atractivas e intuitivas.
 
 Mi enfoque central es proporcionar experiencias de usuario agradables, donde cada línea de código y cada elemento visual contribuyen a la facilidad de uso y la satisfacción del usuario.
 
