@@ -1,0 +1,39 @@
+# Keeps the README current on its own: the age changes on the birthday, and
+# once a month a hidden marker is refreshed. That monthly commit is what keeps
+# this schedule on, since GitHub turns off scheduled workflows in a repository
+# with no activity for 60 days.
+name: Age
+
+on:
+  schedule:
+    - cron: '0 9 * * *' # 06:00 in Argentina
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  age:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Update the age and the monthly marker
+        env:
+          BORN: '1999-02-17'
+        run: |
+          python3 - <<'PY'
+          import datetime, os, re
+          born = datetime.date.fromisoformat(os.environ['BORN'])
+          today = datetime.datetime.now(datetime.timezone(datetime.timedelta(hours=-3))).date()
+          age = today.year - born.year - ((today.month, today.day) < (born.month, born.day))
+          text = open('README.md', encoding='utf-8').read()
+          text = re.sub(r'(<!-- edad -->)\d+(<!-- /edad -->)', rf'\g<1>{age}\g<2>', text)
+          text = re.sub(r'<!-- revisado: [0-9-]+ -->', f'<!-- revisado: {today:%Y-%m} -->', text)
+          open('README.md', 'w', encoding='utf-8').write(text)
+          PY
+          if ! git diff --quiet; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git commit -am "chore: keep the profile README current"
+            git push
+          fi
