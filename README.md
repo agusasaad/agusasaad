@@ -30,4 +30,4 @@ También tengo experiencia trabajando con Node.js, AWS y bases de datos en proye
 
 [LinkedIn](https://www.linkedin.com/in/agust%C3%ADn-asaad/) · [agustinasaad.com.ar](http://agustinasaad.com.ar/) · [X](https://x.com/agusasaad2) · [agusasaad1099@hotmail.com](mailto:agusasaad1099@hotmail.com)
 
-<!-- revisado: 2026-10 -->
+<!-- revisado: 2026-11 -->
